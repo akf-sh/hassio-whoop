@@ -1,6 +1,7 @@
 """Constants for the WHOOP integration."""
+
 DOMAIN = "whoop"
-ISSUE_URL = "https://github.com/prankstr/hassio-whoop/issues"
+ISSUE_URL = "https://github.com/akf-sh/hassio-whoop/issues"
 
 CONFIG_FLOW_VERSION = 3
 
