@@ -2,7 +2,7 @@
 
 Home Assistant integration for WHOOP. Fetches your latest sleep, recovery, strain and workout metrics and exposes them as sensors in Home Assistant.
 
-![Sensor overview](https://github.com/prankstr/hassio-whoop/blob/main/images/sensors.png?raw=true)
+![Sensor overview](https://github.com/akf-sh/hassio-whoop/blob/main/images/sensors.png?raw=true)
 
 >[!IMPORTANT]
 >This is an unofficial integration, I have nothing to do with WHOOP.
@@ -35,7 +35,7 @@ This integration can be installed via [HACS](https://hacs.xyz/) (Home Assistant 
 2. **Add as a Custom Repository**:
     * In Home Assistant, navigate to HACS in your sidebar.
     * Click the three dots in the top right, select "Custom repositories".
-    * **Repository:** `https://github.com/prankstr/hassio-whoop`
+    * **Repository:** `https://github.com/akf-sh/hassio-whoop`
     * **Type:** Select "Integration".
     * Click "ADD".
 3. **Install from HACS:**
@@ -43,7 +43,7 @@ This integration can be installed via [HACS](https://hacs.xyz/) (Home Assistant 
     * Click "DOWNLOAD" in the bottom right corner.
     * Restart Home Assistant
 
- [![Open WHOOP on Home Assistant Community Store (HACS).](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=prankstr&repository=hassio-whoop&category=frontend)
+ [![Open WHOOP on Home Assistant Community Store (HACS).](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=akf-sh&repository=hassio-whoop&category=frontend)
 
 ## Configuration
 
